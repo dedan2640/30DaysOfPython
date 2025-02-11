@@ -65,3 +65,9 @@ print(type(34-4j))
 b = print(type(myname))
 print(type(family_name))
 print(type(mycountry))
+
+
+#comments can make code readable
+#Welcome to 30DaysOfJavaScript
+'''comments can make code readable, easy to reuse
+and informative'''
