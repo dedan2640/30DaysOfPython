@@ -25,7 +25,7 @@ radius = int(input("Enter the radius: "))
 circumference = 2 *PI * radius
 area = PI * radius * radius
 
-point1 = x=3 ,y=3
+
 
 
 
